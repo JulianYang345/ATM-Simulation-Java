@@ -1,0 +1,4 @@
+1111;Julian;1111;720000.0;Withdraw: 55000;Transfer: 25000 | to: Alice;Deposit: 300000
+1112;Alice;1112;25000.0;From: Julian | transfered: 25000;;
+1113;Bob;1113;0.0;;;
+1114;Pak Alfa;1114;1000000.0;;;
